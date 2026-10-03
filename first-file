@@ -1,2 +1,8 @@
 Its my practice file.i wanna raise PR from first account and then approve from second account and merge from first account
-Its includes branches and branch protection rules.
+Its follows different steps:
+Raise PR from account 1.
+Add account 2 as a collaborator.
+These steps are in 2nd branch:
+Add branch protection rule.
+Then raise pull request from account 1.
+
